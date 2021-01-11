@@ -1,0 +1,10 @@
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/obj/Debug/netcoreapp2.0/RApi.csproj.CoreCompileInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/obj/Debug/netcoreapp2.0/RApi.AssemblyInfoInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/obj/Debug/netcoreapp2.0/RApi.AssemblyInfo.cs
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/bin/Debug/netcoreapp2.0/RApi.deps.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/bin/Debug/netcoreapp2.0/RApi.runtimeconfig.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/bin/Debug/netcoreapp2.0/RApi.runtimeconfig.dev.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/bin/Debug/netcoreapp2.0/RApi.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/bin/Debug/netcoreapp2.0/RApi.pdb
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/obj/Debug/netcoreapp2.0/RApi.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RApi/obj/Debug/netcoreapp2.0/RApi.pdb

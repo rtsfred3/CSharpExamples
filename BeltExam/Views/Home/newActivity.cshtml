@@ -1,0 +1,45 @@
+<style>
+    .inline-block{ display: inline-block; }
+
+    .vert-align-top{ vertical-align: top; }
+    
+    .width-100{ width: 100%; }
+</style>
+
+<div class="container">
+  <h1>Create an Activity</h1>
+
+  <div id="newActivity" class="inline-block vert-align-top">
+    @if(@ViewBag.ErrorMessage != null){
+      <p>@ViewBag.ErrorMessage</p>
+    }
+
+    <form action='/new' method='post' id="postActivity">
+        <label name="Title">Title:</label>
+        <input name="Title" type="text">
+        
+        <br />
+
+        <label for="Date">Date:</label>
+        <input type="datetime-local" name="Date" min="@ViewBag.today">
+
+        <br />
+
+        <label for="Duration">Duration:</label>
+        <input type="number" name="DurationTime">
+        <select name="DurationUnits">
+            <option value="Minutes">Minutes</option>
+            <option value="Hours">Hours</option>
+            <option value="Days">Days</option>
+            <option value="Weeks">Weeks</option>
+        </select>
+
+        <br />
+
+        <label for="Description" class="vert-align-top">Description:</label>
+        <textarea class="form-control" form="postActivity" rows="5" name="Description"></textarea>
+        
+        <br /><br /><input class="btn btn-primary width-100" type='submit' value='Submit'>
+    </form>
+  </div>
+</div>

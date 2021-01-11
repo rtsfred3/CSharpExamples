@@ -1,0 +1,10 @@
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.deps.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.dev.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.pdb
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csproj.CoreCompileInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfoInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfo.cs
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.pdb

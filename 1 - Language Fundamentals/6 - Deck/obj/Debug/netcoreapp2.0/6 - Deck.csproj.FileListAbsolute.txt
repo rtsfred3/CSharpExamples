@@ -1,0 +1,10 @@
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/bin/Debug/netcoreapp2.0/6 - Deck.deps.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/bin/Debug/netcoreapp2.0/6 - Deck.runtimeconfig.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/bin/Debug/netcoreapp2.0/6 - Deck.runtimeconfig.dev.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/bin/Debug/netcoreapp2.0/6 - Deck.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/bin/Debug/netcoreapp2.0/6 - Deck.pdb
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/obj/Debug/netcoreapp2.0/6 - Deck.csproj.CoreCompileInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/obj/Debug/netcoreapp2.0/6 - Deck.AssemblyInfoInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/obj/Debug/netcoreapp2.0/6 - Deck.AssemblyInfo.cs
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/obj/Debug/netcoreapp2.0/6 - Deck.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/6 - Deck/obj/Debug/netcoreapp2.0/6 - Deck.pdb

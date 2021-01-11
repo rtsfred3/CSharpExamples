@@ -1,0 +1,29 @@
+.no-click{
+    pointer-events: none;
+    cursor: default;
+    color: black;
+    text-decoration: none;
+}
+
+.inline-block{
+    display: inline-block;
+    width: 45%;
+}
+
+.vert-align-top{
+    vertical-align: top;
+}
+
+.box{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+img{
+    width: 64px;
+}
+
+.width-100px{
+    width: 100px;
+}

@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>Dojo Survey</title>
+  </head>
+  <body>
+    @model DojoSurveyModels.Models.UserModel
+    
+    <h1><u>Submitted Info</u></h1>
+    Name: @Model.name
+    <br />
+    Dojo Location: @Model.location
+    <br />
+    Favorite Language: @Model.language
+    <br />
+    Comment: @Model.comments
+
+    <br /><br />
+    <button type="button" onclick="location.href = '/';">Go Back</button>
+  </body>
+</html>

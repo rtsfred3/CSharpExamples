@@ -1,0 +1,10 @@
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/bin/Debug/netcoreapp2.0/2 - Multiplication.deps.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/bin/Debug/netcoreapp2.0/2 - Multiplication.runtimeconfig.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/bin/Debug/netcoreapp2.0/2 - Multiplication.runtimeconfig.dev.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/bin/Debug/netcoreapp2.0/2 - Multiplication.dll
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/bin/Debug/netcoreapp2.0/2 - Multiplication.pdb
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/obj/Debug/netcoreapp2.0/2 - Multiplication.csproj.CoreCompileInputs.cache
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/obj/Debug/netcoreapp2.0/2 - Multiplication.AssemblyInfoInputs.cache
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/obj/Debug/netcoreapp2.0/2 - Multiplication.AssemblyInfo.cs
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/obj/Debug/netcoreapp2.0/2 - Multiplication.dll
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/2 - Multiplication/obj/Debug/netcoreapp2.0/2 - Multiplication.pdb

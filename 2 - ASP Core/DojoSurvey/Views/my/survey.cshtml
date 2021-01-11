@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <style>
+      table, td, th {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+    </style>
+    <title>Dojo Survey</title>
+  </head>
+  <body>
+    <form action='result' method='post'>
+      Your Name: <input name="name" type="text">
+
+      @using DojoSurvey
+      @{
+          DojoSurvey.LocalDictionary[] locations = @ViewBag.locations;
+          DojoSurvey.LocalDictionary[] languages = @ViewBag.languages;
+      }
+
+      <br />Dojo Location
+      <select name="location">
+      @foreach(var location in locations){
+        <option value="@location.id">@location.name</option>
+      }
+      </select>
+      
+      <br />Favorite Language
+      <select name="language">
+        @foreach(var language in languages){
+          <option value="@language.id">@language.name</option>
+        }
+      </select>
+
+      <br />Comment (optional):
+      <br />
+      <input type="text" name="comments">
+      <br />
+      <input type='submit' value='Submit'>
+    </form>
+  </body>
+</html>

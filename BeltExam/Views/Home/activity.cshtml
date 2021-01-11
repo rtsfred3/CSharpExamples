@@ -1,0 +1,52 @@
+@using BeltExam.Models
+
+<h1>@ViewBag.Activity.Title</h1>
+
+@{ var join = false; }
+
+@if(@ViewBag.UserId == @ViewBag.Activity.UserId){
+    <form action="/activity/@ViewBag.Activity.DojoActivityId/delete" method="POST">
+        <input type="submit" value="Delete">
+    </form>
+}
+
+@if(@ViewBag.Activity.UserActivity.Count > 0){
+    @for(var i = 0; i<@ViewBag.Activity.UserActivity.Count; i++){
+        @if(@ViewBag.Activity.UserActivity[i].UserId == @ViewBag.UserId){
+            join = true;
+        }
+    }
+}
+
+@if(@ViewBag.UserId != @ViewBag.Activity.UserId && @join == false){
+    <form action="/activity/@ViewBag.Activity.DojoActivityId/join" method="POST">
+        <input type="submit" value="Join">
+    </form>
+}
+
+@if(@ViewBag.UserId != @ViewBag.Activity.UserId && @join == true){
+    <form action="/activity/@ViewBag.Activity.DojoActivityId/leave" method="POST">
+        <input type="submit" value="Leave">
+    </form>
+}
+
+
+<h3>Event Coordinator:</h3>
+<span>@ViewBag.Activity.User.Name</span>
+
+<h3>Description:</h3>
+<span>@ViewBag.Activity.Description</span>
+
+
+<h3>Participants:</h3>
+@if(@ViewBag.Activity.UserActivity.Count == 0){
+    <span>Currently No Participants</span>
+}
+
+@if(@ViewBag.Activity.UserActivity.Count > 0){
+    @for(var i = 0; i<@ViewBag.Activity.UserActivity.Count; i++){
+        <p>@ViewBag.Activity.UserActivity[i].User.Name</p>
+    }
+}
+
+

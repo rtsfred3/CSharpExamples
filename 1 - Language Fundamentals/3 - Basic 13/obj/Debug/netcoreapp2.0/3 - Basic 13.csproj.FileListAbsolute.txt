@@ -1,0 +1,10 @@
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/bin/Debug/netcoreapp2.0/3 - Basic 13.deps.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/bin/Debug/netcoreapp2.0/3 - Basic 13.runtimeconfig.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/bin/Debug/netcoreapp2.0/3 - Basic 13.runtimeconfig.dev.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/bin/Debug/netcoreapp2.0/3 - Basic 13.dll
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/bin/Debug/netcoreapp2.0/3 - Basic 13.pdb
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/obj/Debug/netcoreapp2.0/3 - Basic 13.csproj.CoreCompileInputs.cache
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/obj/Debug/netcoreapp2.0/3 - Basic 13.AssemblyInfoInputs.cache
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/obj/Debug/netcoreapp2.0/3 - Basic 13.AssemblyInfo.cs
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/obj/Debug/netcoreapp2.0/3 - Basic 13.dll
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/3 - Basic 13/obj/Debug/netcoreapp2.0/3 - Basic 13.pdb

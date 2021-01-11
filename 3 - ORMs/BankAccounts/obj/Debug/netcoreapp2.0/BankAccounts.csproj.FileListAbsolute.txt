@@ -1,0 +1,10 @@
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.deps.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.runtimeconfig.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.runtimeconfig.dev.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.pdb
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.csproj.CoreCompileInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.AssemblyInfoInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.AssemblyInfo.cs
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.pdb

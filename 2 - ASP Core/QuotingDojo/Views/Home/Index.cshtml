@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form action="/quotes" method="POST">
+    Your Name: <input type="text" name="Author">
+    
+    <br/><br/>Your Quote: <input type="text" name="Quote">
+    <br/><br/><input type="submit" value="Add My Quote">
+</form>
+
+<br/><button onclick="window.location.href = '/quotes';">Skip to quotes!</button>

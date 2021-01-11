@@ -1,0 +1,10 @@
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.deps.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.runtimeconfig.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.runtimeconfig.dev.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.pdb
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.csproj.CoreCompileInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.AssemblyInfoInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.AssemblyInfo.cs
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.pdb

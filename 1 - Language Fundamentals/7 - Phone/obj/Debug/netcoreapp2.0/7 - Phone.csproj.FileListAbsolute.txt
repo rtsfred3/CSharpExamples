@@ -1,0 +1,10 @@
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/bin/Debug/netcoreapp2.0/7 - Phone.deps.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/bin/Debug/netcoreapp2.0/7 - Phone.runtimeconfig.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/bin/Debug/netcoreapp2.0/7 - Phone.runtimeconfig.dev.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/bin/Debug/netcoreapp2.0/7 - Phone.dll
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/bin/Debug/netcoreapp2.0/7 - Phone.pdb
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/obj/Debug/netcoreapp2.0/7 - Phone.csproj.CoreCompileInputs.cache
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/obj/Debug/netcoreapp2.0/7 - Phone.AssemblyInfoInputs.cache
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/obj/Debug/netcoreapp2.0/7 - Phone.AssemblyInfo.cs
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/obj/Debug/netcoreapp2.0/7 - Phone.dll
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/7 - Phone/obj/Debug/netcoreapp2.0/7 - Phone.pdb

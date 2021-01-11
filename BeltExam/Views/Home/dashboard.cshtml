@@ -1,0 +1,80 @@
+@using BeltExam.Models
+
+<style>
+    table{
+        margin: 0 auto;
+        margin-top: 25px;
+    }
+
+    table, tr, td{
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    tr, td{
+        margin: 10px !important;
+        padding: 10px !important;
+        text-align: center;
+    }
+
+    .align-right{
+        width: 100%;
+        text-align: right
+    }
+</style>
+
+<table>
+    <tr>
+        <td>Activity</td>
+        <td>Date and Time</td>
+        <td>Duration</td>
+        <td>Event Coordinator</td>
+        <td>Number of Participants</td>
+        <td>Actions</td>
+    </tr>
+
+    @for(var i = 0; i<@ViewBag.Activities.Count; i++){
+        <tr>
+            <td><a href="/activity/@ViewBag.Activities[i].DojoActivityId">@ViewBag.Activities[i].Title</a></td>
+            <td>@ViewBag.Activities[i].Date</td>
+            <td>@ViewBag.Activities[i].Duration</td>
+            <td>@ViewBag.Activities[i].User.Name</td>
+            <td>@ViewBag.Activities[i].UserActivity.Count</td>
+            <td>
+                @{ var join = false; }
+                
+                @if(@ViewBag.UserId == @ViewBag.Activities[i].UserId){
+                    <form action="/activity/@ViewBag.Activities[i].DojoActivityId/delete" method="POST">
+                        <input type="submit" value="Delete">
+                    </form>
+                }
+                
+                @if(@ViewBag.Activities[i].UserActivity.Count > 0){
+                    @for(var j = 0; j<@ViewBag.Activities[i].UserActivity.Count; j++){
+                        @if(@ViewBag.Activities[i].UserActivity[j].UserId == @ViewBag.UserId){
+                            join = true;
+                        }
+                    }
+                }
+                
+                @if(@ViewBag.UserId != @ViewBag.Activities[i].UserId && @join == false){
+                    <form action="/activity/@ViewBag.Activities[i].DojoActivityId/join" method="POST">
+                        <input type="submit" value="Join">
+                    </form>
+                }
+                
+                @if(@ViewBag.UserId != @ViewBag.Activities[i].UserId && @join == true){
+                    <form action="/activity/@ViewBag.Activities[i].DojoActivityId/leave" method="POST">
+                        <input type="submit" value="Leave">
+                    </form>
+                }
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+<div class="align-right">
+    <a href="/new">Add New Activity!</a>
+</div>

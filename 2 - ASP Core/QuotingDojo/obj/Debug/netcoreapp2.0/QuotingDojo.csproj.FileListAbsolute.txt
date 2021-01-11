@@ -1,0 +1,10 @@
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.deps.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.runtimeconfig.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.runtimeconfig.dev.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.pdb
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.csproj.CoreCompileInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.AssemblyInfoInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.AssemblyInfo.cs
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.pdb

@@ -1,0 +1,10 @@
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/bin/Debug/netcoreapp2.0/4 - Puzzles.deps.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/bin/Debug/netcoreapp2.0/4 - Puzzles.runtimeconfig.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/bin/Debug/netcoreapp2.0/4 - Puzzles.runtimeconfig.dev.json
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/bin/Debug/netcoreapp2.0/4 - Puzzles.dll
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/bin/Debug/netcoreapp2.0/4 - Puzzles.pdb
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/obj/Debug/netcoreapp2.0/4 - Puzzles.csproj.CoreCompileInputs.cache
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/obj/Debug/netcoreapp2.0/4 - Puzzles.AssemblyInfoInputs.cache
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/obj/Debug/netcoreapp2.0/4 - Puzzles.AssemblyInfo.cs
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/obj/Debug/netcoreapp2.0/4 - Puzzles.dll
+/Users/RyanF/Desktop/Coding Dojo/4 - CSharp/4 - Puzzles/obj/Debug/netcoreapp2.0/4 - Puzzles.pdb

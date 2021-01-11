@@ -1,0 +1,27 @@
+﻿<style>
+    video{
+	    margin: 0 auto;
+	    width: 200px;
+    }
+
+    video.source{
+        width: 200px;
+    }
+
+    div.plyr{
+        margin: 0 auto;
+        margin-top: 25px;
+        width: 500px;
+    }
+</style>
+
+<video id="player" playsinline controls>
+    <source src="/videos/@ViewData["filename"]" type="video/mp4">
+</video>
+
+<script src="https://cdn.plyr.io/3.4.3/plyr.js"></script>
+
+<script>
+    const player = new Plyr('#player', {ratio:"16:9"});
+    // window.player = player;
+</script>

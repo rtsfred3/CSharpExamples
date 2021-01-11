@@ -1,0 +1,10 @@
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/bin/Debug/netcoreapp2.0/DojoSurveyModels.deps.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/bin/Debug/netcoreapp2.0/DojoSurveyModels.runtimeconfig.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/bin/Debug/netcoreapp2.0/DojoSurveyModels.runtimeconfig.dev.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/bin/Debug/netcoreapp2.0/DojoSurveyModels.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/bin/Debug/netcoreapp2.0/DojoSurveyModels.pdb
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/obj/Debug/netcoreapp2.0/DojoSurveyModels.csproj.CoreCompileInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/obj/Debug/netcoreapp2.0/DojoSurveyModels.AssemblyInfoInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/obj/Debug/netcoreapp2.0/DojoSurveyModels.AssemblyInfo.cs
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/obj/Debug/netcoreapp2.0/DojoSurveyModels.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/2 - ASP Core/DojoSurveyModels/obj/Debug/netcoreapp2.0/DojoSurveyModels.pdb

@@ -1,0 +1,60 @@
+<style>
+  .block{
+    display: inline-block;
+  }
+  .vert-align-top{
+    vertical-align: top;
+  }
+  .width-100{
+    width: 100%;
+  }
+</style>
+
+<div class="container">
+  <h1><u>Login and Registraion</u></h1>
+  
+  <div id="registration" class="block">
+    @if(@ViewBag.RegistrationError != null){
+      <p>@ViewBag.RegistrationError</p>
+    }
+
+    <form action='/register' method='post'>
+      <label name="Name">Name:</label>
+      <input name="Name" type="text">
+
+      <br />
+
+      <label name="Email">Email:</label>
+      <input name="Email" type="text">
+      
+      <br />
+
+      <label name="Password">Password:</label>
+      <input name="Password" type="password">
+
+      <br />
+
+      <label name="ConfirmPassword">Confirm Password:</label>
+      <input name="ConfirmPassword" type="password">
+
+      <br /><input class="btn btn-primary width-100" type='submit' value='Submit'>
+    </form>
+  </div>
+  
+  <div id="login" class="block vert-align-top">
+    <form action='/login' method='post'>
+      <label name="Email">Email</label>
+      <input name="Email" type="text">
+      
+      <br />
+
+      <label name="Password">Password:</label>
+      <input name="Password" type="password">
+      <br /><input class="btn btn-primary width-100" type='submit' value='Submit'>
+    </form>
+  </div>
+</div>
+
+<script>
+  getLocation("10777 Main St, Bellevue, WA 98004");
+</script>

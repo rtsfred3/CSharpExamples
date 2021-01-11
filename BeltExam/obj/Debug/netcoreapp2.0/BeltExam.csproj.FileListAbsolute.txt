@@ -1,0 +1,10 @@
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/bin/Debug/netcoreapp2.0/BeltExam.deps.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/bin/Debug/netcoreapp2.0/BeltExam.runtimeconfig.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/bin/Debug/netcoreapp2.0/BeltExam.runtimeconfig.dev.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/bin/Debug/netcoreapp2.0/BeltExam.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/bin/Debug/netcoreapp2.0/BeltExam.pdb
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/obj/Debug/netcoreapp2.0/BeltExam.csproj.CoreCompileInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/obj/Debug/netcoreapp2.0/BeltExam.AssemblyInfoInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/obj/Debug/netcoreapp2.0/BeltExam.AssemblyInfo.cs
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/obj/Debug/netcoreapp2.0/BeltExam.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/BeltExam/obj/Debug/netcoreapp2.0/BeltExam.pdb

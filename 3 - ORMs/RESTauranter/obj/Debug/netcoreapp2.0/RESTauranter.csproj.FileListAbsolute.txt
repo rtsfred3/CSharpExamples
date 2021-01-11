@@ -1,0 +1,10 @@
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.deps.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.runtimeconfig.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.runtimeconfig.dev.json
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.pdb
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.csproj.CoreCompileInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.AssemblyInfoInputs.cache
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.AssemblyInfo.cs
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.dll
+/Users/RyanF/OneDrive - University of Portland/Coding Dojo/4 - CSharp/3 - ORMs/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.pdb
